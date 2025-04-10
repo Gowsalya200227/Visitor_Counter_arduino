@@ -2,14 +2,6 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-#include <WiFi.h>
-#include <BlynkSimpleEsp32.h>
-#include <BlynkTimer.h>
-
-char auth[] ="L6ekDBxLUeMQ1wheW4GWSnoznyuI6Um-"
-char ssid[] ="V2027 2"
-char pass[] =""
-
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 #define OLED_RESET    -1
